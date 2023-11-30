@@ -1,0 +1,13 @@
+html,
+body {
+    background-color: #eee;
+}
+
+#post-footer {
+    padding-top: 1rem;
+    text-align: center;
+}
+
+img[alt="logo"] {
+    width: 5rem;
+}
