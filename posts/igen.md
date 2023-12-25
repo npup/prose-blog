@@ -3,6 +3,7 @@ title: Test2
 description: this is a great description
 date: 2023-11-30
 tags: [test, blog, attempt2]
+draft: true
 ---
 
 ## test2
